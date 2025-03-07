@@ -11,12 +11,13 @@ CyberPandas is a gamified cybersecurity awareness website designed to educate us
 
 ## Installation
 
-1. Clone the repository:
+1.Fork the repository
+2. Clone the repository:
    ```sh
    git clone https://github.com/your-username/cyberpandas.git
    cd cyberpandas
    ```
-2. Open the `index.html` file in a web browser.
+3. Open the `index.html` file in a web browser.
 
 ## Usage
 
